@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BelajarSwitchView</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="with_cardview">with CardView</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+
+    <string-array name="heroes_name">
+        <item>Earthshaker</item>
+        <item>Sven</item>
+    </string-array>
+
+    <string-array name="heroes_bio">
+        <item>Earthshaker adalah hero strength jarak dekat (melee) yang punya banyak skill dengan efek area (AoE). Tidak cuma itu, semua skill yang ia miliki juga memiliki efek stun, membuatnya bisa menja Dulu, hero ini selalu dimainkan di posisi support. Namun belakanngan ini ia juga sering dimainkan di posisi offlane, namun tetap dengan peran yang kurang lebih sama dalam permainan, yaitu inisiasi jarak jauh dan crowd control.</item>
+        <item>Sven adala hero strength yang dikenal sebagai carry yang cukup berbahaya. Ia memiliki serangan dengan efek cleave yang mampu menyapu bersih lawan yang terlalu berdekatan satu sama lain. Tidak cuma itu, ia juga sangat alot alias sulit dibunuh. Meskipun punya stun, Sven punya satu masalah sebagai carry melee yaitu mendekat ke lawannya. Namun begitu ia mendapatkan kesempatan untuk mengayunkan pedang besarnya, lawan yang menjadi target bisa hilang dalam sekejap.</item>
+    </string-array>
+
+    <string-array name="heroes_pic">
+        <item>https://duniagames.co.id/image/jpg/79036/1000/571</item>
+        <item>https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/37cfe298-f553-4695-a6e3-696c0249253f/d6msdys-775a9b36-dee5-4580-b426-2b4a6f36f2cc.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzM3Y2ZlMjk4LWY1NTMtNDY5NS1hNmUzLTY5NmMwMjQ5MjUzZlwvZDZtc2R5cy03NzVhOWIzNi1kZWU1LTQ1ODAtYjQyNi0yYjRhNmYzNmYyY2MuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.Zfgqz6vgv_xsKxgI4sjPZKgKsC0pRbPeyuR2qaUtfCc</item>
+    </string-array>
+
+
+
+</resources>
